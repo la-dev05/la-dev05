@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @la-dev05
+- 👋 Hi, I’m Lakshya (LA)!
 - 👀 I’m interested in creating new digital technologies and improving existing ones :)
-- 🌱 I’m currently learning python...
 
 
 <!---
