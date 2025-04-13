@@ -2,12 +2,14 @@
 
 I'm passionate about building innovative digital technologies and improving existing systems for better performance, accessibility, and experience.
 
-🚀 **Latest Project:**  
-[IOL Recommender](https://iol-rec-with-flask.vercel.app) – A Flask-based deployment that helps recommend intraocular lenses using advanced algorithms.
+🚀 **Latest Projects:**  
+- [IOL Recommender](https://iol-rec-with-flask.vercel.app) – A Flask-based deployment that helps recommend intraocular lenses using advanced algorithms.  
+- 📦 **Submission Tracker** – A SwiftUI iOS app for tracking submitted items, smart history management, and reminders.  
+  > **Contact:** lakshya.gupta.ug24@plaksha.edu.in  
 
 💡 **What I'm Into:**   
 - Problem-solving through code  
-- Human-centered design
+- Human-centered design  
 - Songwriting!
 
 📫 **Let’s Connect:**  
