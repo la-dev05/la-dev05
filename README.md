@@ -5,7 +5,8 @@ I'm passionate about building innovative digital technologies and improving exis
 🚀 **Latest Projects:**  
 - [IOL Recommender](https://iol-recommender.vercel.app) – A Flask-based deployment that helps recommend intraocular lenses using advanced algorithms.
 - [VerityLink](https://veritylink.vercel.app) - Craft your documents with confidence.
-- [SelfLink](https://self-link-eta.vercel.app) - A voice-powered web app that transforms daily reflections into curated highlights of positivity! 
+- [SelfLink](https://self-link-eta.vercel.app) - A voice-powered web app that transforms daily reflections into curated highlights of positivity!
+- [UniLink](https://unilink-eight.vercel.app) - Streamline attendance tracking for educational institutions and businesses with Biometrics and GPS-based location tracking.
 - [Submission Tracker](https://github.com/la-dev05/Submission-Tracker) – A SwiftUI iOS app for tracking submitted items, smart history management, and reminders.  
 
 
