@@ -4,6 +4,7 @@ I'm passionate about building innovative digital technologies and improving exis
 
 🚀 **Latest Projects:**  
 - [IOL Recommender](https://iol-recommender.vercel.app) – A Flask-based deployment that helps recommend intraocular lenses using advanced algorithms.
+- [Mask It](https://la-dev05.github.io/MaskIt-game/) - Mask It is a fun arcade-style browser game where players shoot masks at unmasked characters to help them stay safe during a pandemic scenario.
 - [VerityLink](https://veritylink.vercel.app) - Craft your documents with confidence.
 - [SelfLink](https://self-link-eta.vercel.app) - A voice-powered web app that transforms daily reflections into curated highlights of positivity!
 - [UniLink](https://unilink-eight.vercel.app) - Streamline attendance tracking for educational institutions and businesses with Biometrics and GPS-based location tracking.
