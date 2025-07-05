@@ -1,4 +1,4 @@
-# Hi, I’m Lakshya (LA)
+# Hi, I’m Lakshya
 
 I'm passionate about building innovative digital technologies and improving existing systems for better performance, accessibility, and experience.
 
