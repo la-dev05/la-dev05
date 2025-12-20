@@ -3,6 +3,7 @@
 I'm passionate about building innovative digital technologies and improving existing systems for better performance, accessibility, and experience.
 
 🚀 **Latest Projects:**  
+- [StoryLink](https://storylinkai.vercel.app) - Built an AI system that simulates diverse reader personas and produces realistic story feedback.
 - [IOL Recommender](https://iol-recommender.vercel.app) – A Flask-based deployment that helps recommend intraocular lenses using advanced algorithms.
 - [Mask It](https://la-dev05.github.io/MaskIt-game/) - Mask It is a fun arcade-style browser game where players shoot masks at unmasked characters to help them stay safe during a pandemic scenario.
 - [VerityLink](https://veritylink.vercel.app) - Craft your documents with confidence.
