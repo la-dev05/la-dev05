@@ -3,6 +3,7 @@
 I'm passionate about building innovative digital technologies and improving existing systems for better performance, accessibility, and experience.
 
 🚀 **Latest Projects:**  
+- [Reality Web Intelligence (RWI)](https://github.com/la-dev05/Reality-Web-Intelligence) - A browser-native intelligence framework by Reality Play.
 - [StoryLink](https://storylink.realityplay.io) - Built an AI system that simulates diverse reader personas and produces realistic story feedback.
 - [Reality Graph Interact](https://rgraphi.vercel.app) - Describe mathematical equations in natural language and it plots!
 - [IOL Recommender](https://iol-recommender.vercel.app) – A Flask-based deployment that helps recommend intraocular lenses using advanced algorithms.
