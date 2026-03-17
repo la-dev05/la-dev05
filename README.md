@@ -1,8 +1,7 @@
 # Hi, I’m Lakshya
 
 I'm passionate about building innovative digital technologies and improving existing systems for better performance, accessibility, and experience.
-
-🚀 **Latest Projects:**  
+ 
 - [Reality Play](https://www.realityplay.io) - Reality Play builds tools that enhance creativity, foster self-reflection, and empower creators.
 - [StoryLink](https://storylink.realityplay.io) - See your story through every reader's eyes. A Reality Play Product.
 - [Reality Web Intelligence (RWI)](https://github.com/la-dev05/Reality-Web-Intelligence) - A browser-native intelligence framework by Reality Play.
