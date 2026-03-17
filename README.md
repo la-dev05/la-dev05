@@ -1,6 +1,6 @@
 # Hi, I’m Lakshya
 
-I'm passionate about building innovative digital technologies and improving existing systems for better performance, accessibility, and experience.
+Building innovative digital technologies and improving existing systems for better performance, accessibility, and experience.
  
 - [Reality Play](https://www.realityplay.io) - Reality Play builds tools that enhance creativity, foster self-reflection, and empower creators.
 - [StoryLink](https://storylink.realityplay.io) - See your story through every reader's eyes. A Reality Play Product.
@@ -12,12 +12,12 @@ I'm passionate about building innovative digital technologies and improving exis
 - [VerityLink](https://veritylink.vercel.app) - Craft your documents with confidence.
 - [UniLink](https://unilink-eight.vercel.app) - Streamline attendance tracking for educational institutions and businesses with Biometrics and GPS-based location tracking.
 
-
+---
 💡 **What I'm Into:**   
-- Problem-solving through code  
-- Human-centered design  
-- Songwriting!
+- Turning Emotions into Melodies, and
+- Ideas into Solutions
 
+---
 📫 **Let’s Connect:**  
 Feel free to explore my repositories, contribute, or reach out!
   > **Contact:** lakshya.gupta.ug24@plaksha.edu.in  
