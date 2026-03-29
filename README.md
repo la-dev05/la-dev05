@@ -15,7 +15,7 @@ Building innovative digital technologies and improving existing systems for bett
 ---
 💡 **What I'm Into:**   
 - Turning Emotions into Melodies, and
-- Ideas into Solutions
+- Ideas into Impact
 
 ---
 📫 **Let’s Connect:**  
