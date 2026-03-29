@@ -20,7 +20,7 @@ Building innovative digital technologies and improving existing systems for bett
 ---
 📫 **Let’s Connect:**  
 Feel free to explore my repositories, contribute, or reach out!
-  > **Contact:** lakshya.gupta.ug24@plaksha.edu.in  
+  > **Contact:** lakshyag@realityplay.io  
 
 <!---
 la-dev05/la-dev05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
