@@ -6,6 +6,7 @@ Building innovative digital technologies and improving existing systems for bett
 - [StoryLink](https://storylink.realityplay.io) - See your story through every reader's eyes. A Reality Play Product.
 - [Reality Web Intelligence (RWI)](https://github.com/la-dev05/Reality-Web-Intelligence) - A browser-native intelligence framework by Reality Play.
 - [Reality Graph Interact](https://rgraphi.vercel.app) - Describe mathematical equations in natural language and it plots! Built by Reality Play with native RWI support.
+- [LA Audio E.Q. Test](https://github.com/la-dev05/LA-Audio-EQ-Test) - A benchmark that tests whether an AI model can identify a speaker's true emotional tone when it directly contradicts the literal meaning of their words.
 - [IOL Recommender](https://iol-recommender.vercel.app) – A Flask-based deployment that helps recommend intraocular lenses using advanced algorithms.
 - [SelfLink](https://self-link-eta.vercel.app) - A voice-powered web app that transforms daily reflections into highlights of positivity called Self-Links!
 - [Mask It](https://la-dev05.github.io/MaskIt-game/) - Mask It is a fun arcade-style browser game where players shoot masks at unmasked characters to help them stay safe during a pandemic scenario.
