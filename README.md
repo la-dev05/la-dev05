@@ -1,29 +1,33 @@
-# Hi, I’m Lakshya
+# Hi, I'm Lakshya 👋
 
-Building innovative digital technologies and improving existing systems for better performance, accessibility, and experience.
- 
-- [Reality Play](https://www.realityplay.io) - Reality Play builds tools that enhance creativity, foster self-reflection, and empower creators.
-- [StoryLink](https://storylink.realityplay.io) - See your story through every reader's eyes. A Reality Play Product.
-- [Reality Web Intelligence (RWI)](https://github.com/la-dev05/Reality-Web-Intelligence) - A browser-native intelligence framework by Reality Play.
-- [Reality Graph Interact](https://rgraphi.vercel.app) - Describe mathematical equations in natural language and it plots! Built by Reality Play with native RWI support.
-- [LA Audio E.Q. Test](https://github.com/la-dev05/LA-Audio-EQ-Test) - A benchmark that tests whether an AI model can identify a speaker's true emotional tone when it directly contradicts the literal meaning of their words.
-- [IOL Recommender](https://iol-recommender.vercel.app) – A Flask-based deployment that helps recommend intraocular lenses using advanced algorithms.
-- [SelfLink](https://self-link-eta.vercel.app) - A voice-powered web app that transforms daily reflections into highlights of positivity called Self-Links!
-- [Mask It](https://la-dev05.github.io/MaskIt-game/) - Mask It is a fun arcade-style browser game where players shoot masks at unmasked characters to help them stay safe during a pandemic scenario.
-- [VerityLink](https://veritylink.vercel.app) - Craft your documents with confidence.
-- [UniLink](https://unilink-eight.vercel.app) - Streamline attendance tracking for educational institutions and businesses with Biometrics and GPS-based location tracking.
+- Computer Science + AI @ Plaksha University ('28)
+- Building across systems research, on-device ML, iOS & web
+- Founder, [Reality Play](https://www.realityplay.io/)
 
----
-💡 **What I'm Into:**   
-- Turning Emotions into Melodies, and
-- Ideas into Impact
+### 🚀 Products
 
----
-📫 **Let’s Connect:**  
-Feel free to explore my repositories, contribute, or reach out!
-  > **Contact:** lakshya.gupta.ug24@plaksha.edu.in  
+- **[StoryLink](https://storylink.realityplay.io/)** — AI manuscript-feedback platform that shows authors how different readers experience their story. Fine-tuned LLM + LoRA pipeline, Supabase backend, subscription billing. **Live.**
+- **[SelfLink](https://www.realityplay.io/selflink)** — A privacy-first journaling app that reads between the lines of your own words — surfacing hidden moments of hope, gratitude, and growth, even on the hardest days. Entirely on-device.
+- **[IOL Recommender](https://lensselect.realityplay.io)** — Flask tool recommending intraocular lenses, built alongside an AIIMS ophthalmologist.
+- **[Reality Graph Interact](https://rgraphi.vercel.app/)** — Describe a math equation in plain English and it plots it: natural language → equation → graph; prototype built for native [Reality Web Intelligence (RWI)](https://github.com/la-dev05/Reality-Web-Intelligence) support.
+- **[UniLink](https://unilink-eight.vercel.app/)** — Biometric + GPS attendance tracking for university residence halls and businesses.
 
-<!---
-la-dev05/la-dev05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧩 Frameworks & Benchmarks
+
+- **[Reality Web Intelligence (RWI)](https://github.com/la-dev05/Reality-Web-Intelligence)** — A browser-native intelligence framework that exposes on-device LLM capabilities to websites through an explicit, origin-scoped permission model and a shared model runtime.
+- **[LA Audio E.Q. Test](https://github.com/la-dev05/LA-Audio-EQ-Test)** — A benchmark measuring whether a model can read a speaker's true emotional tone when it contradicts the literal meaning of their words.
+
+### 🛠️ Also
+
+- **[Mask It](https://la-dev05.github.io/MaskIt-game/)** — Arcade-style browser game built around a pandemic-safety theme.
+
+### 🎵 Beyond code
+
+Music production — turning emotions into melodies.
+
+### 📫 Connect
+
+- 💼 LinkedIn: [la-dev](https://www.linkedin.com/in/la-dev/)
+- ✉️ lakshya.gupta.ug24@plaksha.edu.in
+
+<!--- la-dev05/la-dev05 is a ✨ special ✨ repository because its README.md appears on your GitHub profile. --->
