@@ -4,23 +4,28 @@
 - Building across systems research, on-device ML, iOS & web
 - Founder, [Reality Play](https://www.realityplay.io/)
 
+
 ### 🚀 Products
 
 - **[StoryLink](https://storylink.realityplay.io/)** — AI manuscript-feedback platform that shows authors how different readers experience their story. Fine-tuned LLM + LoRA pipeline, Supabase backend, subscription billing. **Live.**
 - **[SelfLink](https://www.realityplay.io/selflink)** — A privacy-first journaling app that reads between the lines of your own words — surfacing hidden moments of hope, gratitude, and growth, even on the hardest days. Entirely on-device.
-- **[IOL Recommender](https://lensselect.realityplay.io)** — Flask tool recommending intraocular lenses, built alongside an AIIMS ophthalmologist.
-- **[Reality Graph Interact](https://rgraphi.vercel.app/)** — Describe a math equation in plain English and it plots it: natural language → equation → graph; prototype built for native [Reality Web Intelligence (RWI)](https://github.com/la-dev05/Reality-Web-Intelligence) support.
+- **[Reality Lens Select](https://lensselect.realityplay.io)** — Flask tool recommending intraocular lenses, built alongside an AIIMS ophthalmologist.
+
 - **[UniLink](https://unilink-eight.vercel.app/)** — Biometric + GPS attendance tracking for university residence halls and businesses.
-- **[Reality Scam Intercept](https://github.com/la-dev05/Reality-Scam-Intercept)** — On-device scam-call detection running Gemma 4 fully offline; catches authority-impersonation and coercion scams live over a two-way WebRTC call and fires a real-time warning, with option to escalate caller verification through an autonomous cloud-based conversational model.
+
 
 ### 🧩 Frameworks & Benchmarks
 
 - **[Reality Web Intelligence (RWI)](https://github.com/la-dev05/Reality-Web-Intelligence)** — A browser-native intelligence framework that exposes on-device LLM capabilities to websites through an explicit, origin-scoped permission model and a shared model runtime.
 - **[LA Audio E.Q. Test](https://github.com/la-dev05/LA-Audio-EQ-Test)** — A benchmark measuring whether a model can read a speaker's true emotional tone when it contradicts the literal meaning of their words.
 
-### 🛠️ Also
 
+### 🔬 Reality Play Labs
+
+- **[Reality Graph Interact](https://rgraphi.vercel.app/)** — Describe a math equation in plain English and it plots it: natural language → equation → graph; prototype built for native [Reality Web Intelligence (RWI)](https://github.com/la-dev05/Reality-Web-Intelligence) support.
+- **[Reality Scam Intercept](https://github.com/la-dev05/Reality-Scam-Intercept)** — On-device scam-call detection running Gemma 4 fully offline; catches authority-impersonation and coercion scams live over a two-way WebRTC call and fires a real-time warning, with option to escalate caller verification through an autonomous cloud-based conversational model.
 - **[Mask It](https://la-dev05.github.io/MaskIt-game/)** — Arcade-style browser game built around a pandemic-safety theme.
+
 
 ### 🎵 Beyond code
 
