@@ -11,7 +11,7 @@
 - **[IOL Recommender](https://lensselect.realityplay.io)** — Flask tool recommending intraocular lenses, built alongside an AIIMS ophthalmologist.
 - **[Reality Graph Interact](https://rgraphi.vercel.app/)** — Describe a math equation in plain English and it plots it: natural language → equation → graph; prototype built for native [Reality Web Intelligence (RWI)](https://github.com/la-dev05/Reality-Web-Intelligence) support.
 - **[UniLink](https://unilink-eight.vercel.app/)** — Biometric + GPS attendance tracking for university residence halls and businesses.
-- **[Reality Scam Intercept](https://github.com/la-dev05/Reality-Scam-Intercept)** — On-device scam-call detection running Gemma 4 E2B fully offline; catches authority-impersonation and coercion scams live over a two-way WebRTC call and fires a real-time warning before money moves.
+- **[Reality Scam Intercept](https://github.com/la-dev05/Reality-Scam-Intercept)** — On-device scam-call detection running Gemma 4 fully offline; catches authority-impersonation and coercion scams live over a two-way WebRTC call and fires a real-time warning, with option to escalate caller verification through an autonomous cloud-based conversational model.
 
 ### 🧩 Frameworks & Benchmarks
 
